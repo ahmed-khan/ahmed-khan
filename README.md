@@ -10,7 +10,7 @@ This website is a digital showcase of Dr. Ahmad's work, including certifications
 
 ## 🏅 Certifications
 
-- ✅ AWS Certified Solutions Architect – Associate  
+- ✅ [AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/d144c022cbc243208549fa6c4694267e)  
 - ✅ Microsoft Certified: Azure Fundamentals  
 - ✅ Certified Ethical Hacker (CEH)  
 - ✅ Google Cloud Digital Leader  
