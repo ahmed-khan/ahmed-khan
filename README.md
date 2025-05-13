@@ -1,4 +1,4 @@
-# 🌐 Connecting Ahmad
+# 🌐 Dr. Ahmad Raza Khan
 
 Welcome to the official academic and professional website of **Dr. Ahmad Raza Khan**,  a passionate educator, researcher, and lifelong learner in the fields of **Cybersecurity**, **Cloud Computing**, and **Software Engineering**.
 
@@ -10,12 +10,11 @@ This website is a digital showcase of Dr. Ahmad's work, including certifications
 
 ## 🏅 Certifications
 
-- ✅ [AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/d144c022cbc243208549fa6c4694267e)  
-- ✅ Microsoft Certified: Azure Fundamentals  
-- ✅ Certified Ethical Hacker (CEH)  
-- ✅ Google Cloud Digital Leader  
-- ✅ IBM Cybersecurity Analyst  
-- ✅ Cisco Certified Network Associate (CCNA)
+- ✅ [Certified Network Defender Certified Ethical Hacker - CEH](https://www.connectingahmad.info/Certifications/ECC-CEH-Certificate-2.pdf)
+- ✅ [Computer Hacking Forensic Investigator - CHFI](https://www.connectingahmad.info/Certifications/ECC-CHFI-Certificate-ANSI-2.pdf)
+- ✅ [Certified Threat Intelligence Analyst - CTIA](https://www.connectingahmad.info/Certifications/ECC-CTIA-Certificate-2.pdf)  
+- ✅ [Junior Penetration Tester](https://drkhanwebsite.s3.us-east-1.amazonaws.com/Certifications/Jr+Penetration+Tester.pdf) 
+- ✅ [SOC Level 1](https://www.connectingahmad.info/Certifications/SOC-Level-1.pdf)
 
 ---
 
