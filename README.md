@@ -33,11 +33,10 @@ This website is a digital showcase of Dr. Ahmad's work, including certifications
 
 ## 📚 Research Publications
 
-- Ahmad, F. (2024). *Securing Serverless Functions on AWS using Identity-Based Access Control*. International Journal of Cloud Security Research.
-
-- Ahmad, F. (2023). *Automated Extraction of Metadata from Academic Templates using Python*. Journal of Intelligent Systems.
-
-- Ahmad, F., & Khan, R. (2022). *Modular Approaches to Secure Software Development Lifecycle (SSDLC)*. IEEE Conference on Software Engineering Education.
+- Sunil Kumar Sharma, Ahmed Ibrahim Alutaibi, Ahmad Raza Khan, Ghanshyam G.Tejani, FuzailAhmad,& Seyed Jalaleddin Mousavirad,["Early detection of mental health disorders using machine learning models using behavioral and voice data analysis."](https://doi.org/10.1038/s41598-025-00386-8), Scientific Reports, Vol. 15, May 2025,[SCI / Scopus]
+- Ahmed Ibrahim Alutaibi, Sunil Kumar Sharma, Ahmad Raza Khan,["Capsule DenseNet++: Enhanced autism detection framework with deep learning and reinforcement learning-based lifestyle recommendation"](https://doi.org/10.1016/j.compbiomed.2025.110038), Computers in Biology and Medicine, Vol. 190, May 2025,[SCI / Scopus]
+- N. Sivakumar, Ahmad Raza Khan, Syed Umar, R. N. Ravikumar, I. Bremnavas, Munindra Lunagaria, Krunal Vaghela, Ghanshyam G. Tejani, Sunil Kumar Sharma,["A Hybrid Brain Tumor Classification Using FL With FedAvg and FedProx for Privacy and Robustness Across Heterogeneous Data Sources"](https://doi.org/10.1109/ACCESS.2025.3549440), IEEE Access, Vol. 13, March 10, 2025,[SCI / Scopus]
+- Ahmed Alhussen, Ahmed Ibrahim Alutaibi, Sunil Kumar Sharma, Ahmad Raza Khan, Fuzail Ahmad, Ghanshyam G Tejani,["Early attention-deficit/hyperactivity disorder (ADHD) with NeuroDCT-ICA and rhinofish optimization (RFO) algorithm based optimized ADHD-AttentionNet"](https://doi.org/10.1038/s41598-025-90649-1), Scientific Reports, Vol. 15, Issue 1, February 2025,[SCI / Scopus]
 
 > 🔗 Full list of publications available at [https://connectingahmad.info/publications](https://www.connectingahmad.info/)
 
