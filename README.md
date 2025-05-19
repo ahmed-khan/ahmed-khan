@@ -15,6 +15,7 @@ This website is a digital showcase of Dr. Ahmad's work, including certifications
 - ✅ [Certified Threat Intelligence Analyst - CTIA](https://www.connectingahmad.info/Certifications/ECC-CTIA-Certificate-2.pdf)  
 - ✅ [Junior Penetration Tester](https://drkhanwebsite.s3.us-east-1.amazonaws.com/Certifications/Jr+Penetration+Tester.pdf) 
 - ✅ [SOC Level 1](https://www.connectingahmad.info/Certifications/SOC-Level-1.pdf)
+- ✅ [Google Certified Cybersecurity Professional](https://www.connectingahmad.info/Certifications/Coursera/Coursera-Google-Cybersecurity-Professional-Certificate.pdf)
 
 ---
 
